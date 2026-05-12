@@ -413,6 +413,11 @@ h2 {
   margin-bottom: 1rem;
 }
 
+.note--strengths-heading {
+  margin-top: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
 .note strong {
   color: var(--text);
 }
