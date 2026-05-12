@@ -1,5 +1,10 @@
 # GitHub Pages 배포 안내
 
+## 이 저장소
+
+- **저장소:** [github.com/pudlemixbbosik-beep/vigilant-telegram](https://github.com/pudlemixbbosik-beep/vigilant-telegram)
+- **웹 주소(Pages 켠 뒤):** [pudlemixbbosik-beep.github.io/vigilant-telegram](https://pudlemixbbosik-beep.github.io/vigilant-telegram/)
+
 이 사이트는 **HTML/CSS/JS만** 사용하며, `index.html`과 **`css/`**, **`js/`**는 모두 **상대 경로**로 연결되어 있습니다. 리포지토리 이름이 URL 경로에 붙는 `https://사용자명.github.io/레포이름/` 형태에서도 별도의 `<base href>` 설정 없이 동작합니다.
 
 ## 로컬에서 미리보기
